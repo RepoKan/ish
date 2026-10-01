@@ -1,0 +1,5 @@
+CBCTL_REPO="owner/private-repository"
+CBCTL_WORKFLOW="codebuff-control.yml"
+CBCTL_WORKFLOW_REF="main"
+CBCTL_SOURCE_REF="main"
+CBCTL_POLL_SECONDS="5"
